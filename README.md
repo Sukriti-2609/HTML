@@ -8,6 +8,11 @@ This project was created as part of my learning journey in web development throu
 
 ---
 
+## 🌐 Live Demo
+👉 https://Sukriti-2609.github.io/Little-Taco-Shop-Website/
+
+---
+
 ## 🎯 Objectives
 - Build a multi-page website using pure HTML
 - Understand semantic HTML structure
@@ -148,4 +153,5 @@ This project is based on a tutorial and has been recreated as part of my learnin
 ---
 
 ## 👩‍💻 Author
-**Sukriti Singh**
+**Sukriti Singh** 
+🔗 GitHub: https://github.com/Sukriti-2609
