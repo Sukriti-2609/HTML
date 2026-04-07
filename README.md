@@ -30,7 +30,7 @@ Little-Taco-Shop/
 │
 ├── `index.html`          → ✅ Main landing page
 │
-├── assets/               → Static files
+├── assets/               → 📄 Static files
 |   |
 │   ├── css/
 |   |   └── `style.css`
@@ -52,7 +52,7 @@ Little-Taco-Shop/
 |   |   ├── `contact.png`
 |   |   └── `privacy_policy.png`
 |   |
-├── pages/                  → Additional website pages
+├── pages/               → 🔗 Additional website pages
 │   ├── contact.html
 │   ├── hours.html
 │   └── privacy_policy.html
