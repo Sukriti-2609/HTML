@@ -109,6 +109,7 @@ This project is inspired by a tutorial from:
 
 ## ⚠️ Disclaimer
 This project is built for educational purposes as part of a learning exercise. All content is fictional.
+This project is based on a tutorial and has been recreated as part of my learning process, with additional enhancements and customizations.
 
 ---
 
