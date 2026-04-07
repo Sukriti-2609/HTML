@@ -26,7 +26,7 @@ This project was created as part of my learning journey in web development throu
 ## 📂 Project Structure
 
 ```
-Little-Taco-Shop/
+Little-Taco-Shop-Website/
 │
 ├── index.html          → ✅ Main landing page
 │
@@ -134,7 +134,8 @@ Little-Taco-Shop/
 
 ## 🎫 Reference
 This project is inspired by a tutorial from:
-👉 https://www.youtube.com/DaveGrayTeachesCode
+👉 [freeCodeCamp.org (YouTube)]([url](https://youtu.be/kUMe1FH4CHE?si=nitCrKhoxjjMDomb))
+👨🏼‍🏫 [Instructor – Dave Gray]([url](https://www.youtube.com/DaveGrayTeachesCode))
 
 ---
 
