@@ -93,13 +93,16 @@ Little-Taco-Shop
 
 ---
 
-## 📸 Preview
+## 📸 Website Preview
 
-![Home Page](assets/images/screenshots/home.png)
+![Home Page](assets/screenshots/home.png)
+![Store Hours](assets/screenshots/hours.png)
+![Contact Us](assets/screenshots/contact.png)
+![Privacy Policy](ssets/screenshots/privacy_policy.png)
 
 ---
 
-## 📸 Reference
+## 🎫 Reference
 This project is inspired by a tutorial from:
 👉 https://www.youtube.com/DaveGrayTeachesCode
 
