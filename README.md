@@ -135,9 +135,9 @@ Little-Taco-Shop-Website/
 ## 🎫 Reference
 This project is inspired by a tutorial from:
 
-👉 ![freeCodeCamp.org (YouTube)](https://youtu.be/kUMe1FH4CHE?si=nitCrKhoxjjMDomb)
+👉 [freeCodeCamp.org (YouTube)](https://youtu.be/kUMe1FH4CHE?si=nitCrKhoxjjMDomb)
 
-👨🏼‍🏫 ![Instructor – Dave Gray](https://www.youtube.com/DaveGrayTeachesCode)
+👨🏼‍🏫 [Instructor – Dave Gray](https://www.youtube.com/DaveGrayTeachesCode)
 
 ---
 
